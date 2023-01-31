@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "brand": "BMW",
+    "model": "series-3",
+    "year": 2020,
+    "price": 50000,
+    "new": false,
+    "image": "https://avatars.mds.yandex.net/get-autoru-vos/2194048/0889da0352de2573355dae608727b0fd/1200x900n"
+  },
+  {
+    "id": 2,
+    "brand": "BMW",
+    "model": "series-5",
+    "year": 2021,
+    "price": 70000,
+    "new": true,
+    "image": "https://yastatic.net/naydex/autoru/E142MLe55/6b4725wG5o81/24Yp0eJcMRXXb63YYcKB09KWzKmqTZiDy3MykY-vqVN69ERFbTv2svOluRzl4vXFaNlz0fAokdrb0IiIwlO-QF_TaMVDqYRRdp4YjHSX9VIz8wjoWt46NQlwQCONrG_wiOVh4RiqgpbVE1ns0nUHoF_rxfaHGnGv71GbqGFXDPUo5lnzpcxSZFAc7Rnj8LLms3U8bfi-mVWL81NB3a6_Yik2YPAbXXC1VXJ9H4OndxFemLZXNRpwbtxSSAoBlc1X0"
+  },
+  {
+    "id": 3,
+    "brand": "BMW",
+    "model": "series-7",
+    "year": 2022,
+    "price": 100000,
+    "new": true,
+    "image": "https://yastatic.net/naydex/autoru/E142MLe55/6b4725wG5o81/24Yp0eJcMRXXb63YYcKB09KWzKmqTZiDy3MykY-vqVN69ERFfVtW4hPF2RmVt8XVaMlzZIAI1Oo7xa2dh1OrQOqjKKDDLKTB8854rHSX9VIz8wjoWt46NQlwQCONrG_wiOVh4RiqgpbVE1ns0nUHoF_rxfaHGnGv71GbqGFXDPUo5lnzpcxSZFAc7Rnj8LLms3U8bfi-mVWL81NB3a6_Yik2YPAbXXC1VXJ9H4OndxFemLZXNRpwbtxSSAoBlc1X0"
+  },
+  {
+    "id": 4,
+    "brand": "MERCEDES-BENZ",
+    "model": "class-c",
+    "year": 2020,
+    "price": 50000,
+    "new": false,
+    "image": "https://yastatic.net/naydex/autoru/E142MLe55/6b4725wG5o81/24Yp0eJcMRXXb63YYcKB09KWzKmqTZiDy3MykY-vqVN69ERFHcsm8uP12RylMkWlLZxzsTUN8c_uhZ3Y4kMOcMrzrfWjPITRht5tnHSX9VIz8wjoWt46NQlwQCONrG_wiOVh4RiqgpbVE1ns0nUHoF_rxfaHGnGv71GbqGFXDPUo5lnzpcxSZFAc7Rnj8LLms3U8bfi-mVWL81NB3a6_Yik2YPAbXXC1VXJ9H4OndxFemLZXNRpwbtxSSAoBlc1X0"
+  },
+  {
+    "id": 5,
+    "brand": "MERCEDES-BENZ",
+    "model": "class-e",
+    "year": 2021,
+    "price": 70000,
+    "new": true,
+    "image": "https://avatars.mds.yandex.net/get-autoru-vos/4387000/4f005eebd54ebc07834a50e97f5586fe/1200x900n"
+  },
+  {
+    "id": 6,
+    "brand": "MERCEDES-BENZ",
+    "model": "class-s",
+    "year": 2022,
+    "price": 100000,
+    "new": true,
+    "image": "https://yastatic.net/naydex/autoru/E142MLe55/6b4725wG5o81/24Yp0eJcMRXXb63YYcKB09KWzKmqTZiDy3MykY-vqVN69ERFLUvmssP1mRmg8kB1GDw2tPBNwd-b9e2YpxarUK9DWLXDqeTU9sstrHSX9VIz8wjoWt46NQlwQCONrG_wiOVh4RiqgpbVE1ns0nUHoF_rxfaHGnGv71GbqGFXDPUo5lnzpcxSZFAc7Rnj8LLms3U8bfi-mVWL81NB3a6_Yik2YPAbXXC1VXJ9H4OndxFemLZXNRpwbtxSSAoBlc1X0"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "name": "f21-vuetify-car-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "@vuelidate/core": "^2.0.0",
+    "@vuelidate/validators": "^2.0.0",
+    "axios": "^1.2.2",
+    "crypto-js": "^4.1.1",
+    "lodash": "^4.17.21",
+    "pinia": "^2.0.13",
+    "vue": "^3.2.33",
+    "vue-router": "^4.0.14",
+    "vuetify": "^3.0.6"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
+    "@vitejs/plugin-vue": "^2.3.1",
+    "sass": "^1.57.1",
+    "scss": "^0.2.4",
+    "vite": "^2.9.5"
+  }
+}
